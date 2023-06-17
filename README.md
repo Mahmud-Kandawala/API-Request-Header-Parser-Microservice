@@ -2,7 +2,7 @@
 
 # API Timestamp Microservice
 
-<img src = "images/header.png" height = 400 width = 675> 
+<img src = "images/header.png" height = 400 width = 750> 
 
 ## Assignment
 
